@@ -1,1 +1,1 @@
-# image_recognition
+# image_classification
